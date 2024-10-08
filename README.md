@@ -26,6 +26,7 @@ A tech enthusiast pursuing B.Tech EE at NIT Durgapur
 
 
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipayandas24&show_icons=true&locale=en&layout=compact&theme=material-palenight&" alt="dipayandas24" /></p>
 <!---<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipayandas24&show_icons=true&locale=en" alt="dipayandas24" /></p>
 --->
 
